@@ -1,1 +1,1 @@
-# E-commerce-Data-Analysis
+# Mining Insights: Unveiling E-commerce Trends Through Data Analysis
